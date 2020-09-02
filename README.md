@@ -1,15 +1,15 @@
 # ETL_Project
 
-Project Title: World Happiness Reports 2018 and 2019
-Team Members: Catherine Smith, Grant Leach, Tomorrow Rose
+**Project Title:** World Happiness Reports 2018 and 2019
+**Team Members:** Catherine Smith, Grant Leach, Tomorrow Rose
 
 
 
-Project Description: For this project, we will be analyzing World Happiness data from two csv files found on Kaggle. Our analysis will involve extracting, transforming, and loading the data into a database.
+**Project Description:** For this project, we will be analyzing World Happiness data from two csv files found on Kaggle. Our analysis will involve extracting, transforming, and loading the data into a database.
 
 
 
-Data Cleanup & Analysis:
+**Data Cleanup & Analysis:**
 
 Data source: https://www.kaggle.com/mathurinache/world-happiness-report
 
