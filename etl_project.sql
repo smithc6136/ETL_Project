@@ -34,7 +34,7 @@ SELECT twentyeighteen.country_or_region, twentyeighteen.score AS twentyeighteen_
 FROM twentyeighteen
 JOIN twentynineteen
 ON twentyeighteen.country_or_region = twentynineteen.country_or_region
-ORDER BY twentyeighteen.score ASC;
+ORDER BY twentyeighteen.score DESC;
 
 -- Join tables on GDP Per Capita
 SELECT twentyeighteen.country_or_region, twentyeighteen.gdp_per_capita AS twentyeighteen_gdp_per_capita, twentynineteen.gdp_per_capita AS twentynineteen_gdp_per_capita
